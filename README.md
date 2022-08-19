@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scurtiscodes
 - 👀 I’m interested in coding, video games, cats, existentialism, psychology and astronomy
 - 🌱 I’m currently learning JavaScript at NCC, through their Promineo Bootcamp.
-- 💞️ I’m looking to collaborate on anything at the momment. As a fairly new developer, I don't have a niche at the moment
+- 💞️ I’m looking to collaborate on anything at the moment. As a fairly new developer, I'm more of a learning generalist.
 - 📫 I'm best reached by email (scurtiscodes@gmail.com)
 
 <!---
